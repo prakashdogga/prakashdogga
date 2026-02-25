@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Prakash .I  am an Machine Learning Engineer,Deeplearning Enthusiast</p>
+<p align="left">My name is Prakash .</p>
+###
+
+<p align = "left">I am an Machine Learning Engineer,Deeplearning Enthusiast</p>
 
 ###
 
