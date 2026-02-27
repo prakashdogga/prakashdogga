@@ -12,9 +12,11 @@
 ###
 
 <p align="left">🔭 I’m currently studing BTECH 3rd year<br>🌱 I’m currently learning deeplearning projects<br>🤔 I’m looking for help with AI<br>💬 Ask me about MACHINE LEARNING<br>📫 How to reach me: prakash0015d@gmail.com</p>
+<br>
 
 ###
-
+<h2 align="left">Contact me </h2>
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/prakash-30b350356" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
