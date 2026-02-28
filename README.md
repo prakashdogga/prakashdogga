@@ -1,10 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:00F7FF&height=220&section=header&text=Prakash&fontSize=55&fontColor=00F7FF&animation=fadeIn&font=Orbitron&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descAlign=50"/>
+<!-- CYBER TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;DSA+Problem+Solver;Python+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems...;Deep+Learning+Explorer;AI+%7C+ML+%7C+DSA" />
 </p>
-<h1 align="center">Hi 👋, I'm Prakash</h1>
-<h3 align="center">Machine Learning Engineer | Deep Learning Enthusiast | DSA Learner</h3>
 
----
 
 ## 👨‍💻 About Me
 
@@ -38,20 +37,10 @@
 
 ---
 
-## 🛠 Tech Stack
+# ⚙️ TECH STACK MATRIX
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,fastapi,docker,aws,kaggle,git,github,mysql&theme=dark" />
 </p>
 
 ---
@@ -75,5 +64,10 @@
 <img src="https://raw.githubusercontent.com/prakashdogga/prakashdogga/output/snake.svg" />
 
 ---
+# 👁 PROFILE VISITOR COUNTER
 
-⭐ *"Building intelligent systems and solving problems one algorithm at a time."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prakashdogga&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
+
+
