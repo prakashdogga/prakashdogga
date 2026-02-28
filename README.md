@@ -1,78 +1,79 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;DSA+Problem+Solver;Python+Developer" />
+</p>
+<h1 align="center">Hi 👋, I'm Prakash</h1>
+<h3 align="center">Machine Learning Engineer | Deep Learning Enthusiast | DSA Learner</h3>
 
-###
+---
 
-<p align="left">My name is Prakash .</p>
-<p align="left"> I  am an Machine Learning Engineer,Deeplearning Enthusiast</p>
+## 👨‍💻 About Me
 
-###
+- 🎓 B.Tech 3rd Year Student  
+- 🤖 Passionate about Machine Learning & Deep Learning  
+- 🌱 Currently building real-world AI & DL projects  
+- 💡 Strong interest in Data Structures & Algorithms  
+- 💬 Ask me about Machine Learning & Python  
+- 📫 Reach me at: **prakash0015d@gmail.com**
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🌐 Connect With Me
 
-<p align="left">🔭 I’m currently studing BTECH 3rd year<br>🌱 I’m currently learning deeplearning projects<br>🤔 I’m looking for help with AI<br>💬 Ask me about MACHINE LEARNING<br>📫 How to reach me: prakash0015d@gmail.com</p>
-<br>
+<p align="left">
+<a href="https://www.linkedin.com/in/prakash-30b350356" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+</a>
+<a href="mailto:prakash0015d@gmail.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" />
+</a>
+</p>
 
+---
 
-<h2 align="left">Contact me </h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/prakash-30b350356" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:prakash00015d@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
+## 🧠 LeetCode Progress
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashdogga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=prakashdogga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=prakashdogga&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashdogga&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://leetcard.jacoblin.cool/D_prakash?theme=dark&ext=heatmap" height="300" />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/prakashdogga/prakashdogga/output/snake.svg" alt="Snake animation" />
+## 🛠 Tech Stack
 
-###
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prakashdogga&show_icons=true&theme=dracula" height="150" />
+
+<img src="https://streak-stats.demolab.com?user=prakashdogga&theme=dracula" height="150" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashdogga&theme=react-dark" height="250" />
+
 </div>
 
-###
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/prakashdogga/prakashdogga/output/snake.svg" />
+
+---
+
+⭐ *"Building intelligent systems and solving problems one algorithm at a time."*
