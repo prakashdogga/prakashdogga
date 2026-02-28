@@ -23,8 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
 </a>
 <a href="mailto:prakash0015d@gmail.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" />
-</a>
+<img src="https://cdn.simpleicons.org/gmail/D14836" height="40"/>
 </p>
 
 ---
